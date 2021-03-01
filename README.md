@@ -7,8 +7,8 @@ Contact Keeper
 4. Usage
   Install dependencies
 
-  npm install
-  npm client-install
+  4.1 npm install
+  4.2 npm client-install
 
 5. Mongo connection setup
   Edit your /config/default.json file to include the correct MongoDB URI
