@@ -1,4 +1,5 @@
 Contact Keeper
+website is deployed on https://mysterious-savannah-89916.herokuapp.com/login
 
 1. download the zip file or clone it
 2. extract the file and open with the editor (e.g. VS Code)
