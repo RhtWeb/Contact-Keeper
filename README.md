@@ -1,15 +1,19 @@
 Contact Keeper
 
+1. download the zip file or clone it
+2. extract the file and open with the editor (e.g. VS Code)
+3. open terminal and go to the file directory
 
-Usage
-Install dependencies
+4. Usage
+  Install dependencies
 
-npm install
-npm client-install
-Mongo connection setup
-Edit your /config/default.json file to include the correct MongoDB URI
+  npm install
+  npm client-install
 
-Run Server.
-npm run dev     # Express & React :3000 & :5000
-npm run server  # Express API Only :5000
-npm run client  # React Client Only :3000
+5. Mongo connection setup
+  Edit your /config/default.json file to include the correct MongoDB URI
+
+6. Run Server
+  npm run dev     # Express & React :3000 & :5000
+  npm run server  # Express API Only :5000
+  npm run client  # React Client Only :3000
