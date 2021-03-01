@@ -4,11 +4,11 @@ Contact Keeper
 2. extract the file and open with the editor (e.g. VS Code)
 3. open terminal and go to the file directory
 
-4. Usage
-  Install dependencies
-
-  4.1 npm install
-  4.2 npm client-install
+4. Usage  
+  Install the dependency
+  
+  npm install
+  npm run client-install
 
 5. Mongo connection setup
   Edit your /config/default.json file to include the correct MongoDB URI
