@@ -27,9 +27,9 @@ https://mysterious-savannah-89916.herokuapp.com/login
     My Portfolio Website <br /> https://rhtwebportfolio.web.app/
   </li>
   <li>
-    LinkedIn   https://www.linkedin.com/in/RhtWeb
+    LinkedIn <br />  https://www.linkedin.com/in/RhtWeb
   </li>
   <li>
-    GitHub      https://github.com/RhtWeb
+    GitHub  <br />    https://github.com/RhtWeb
   </li>
   </ul>
