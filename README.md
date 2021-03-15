@@ -24,7 +24,7 @@ https://mysterious-savannah-89916.herokuapp.com/login
 <br />
 <table>
   <tr>
-   <td><img src="https://user-images.githubusercontent.com/55020650/111153074-7c8c2200-85b7-11eb-87bb-940adb1ab74f.jpg" width="600" height="500"></td>
+   <td><img src="https://user-images.githubusercontent.com/55020650/111153074-7c8c2200-85b7-11eb-87bb-940adb1ab74f.jpg" width="700" height="500"></td>
    <td>
     <h3>Contact Me</h3>
 <ul>
