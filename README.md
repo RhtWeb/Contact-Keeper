@@ -1,6 +1,6 @@
 # Contact Keeper (MERN Stack)
 <h2>CheckOut the Website On</h2>
-https://mysterious-savannah-89916.herokuapp.com/login
+https://mysterious-savannah-89916.herokuapp.com
 
 1. download the zip file or clone it
 2. extract the file and open with the editor (e.g. VS Code)
